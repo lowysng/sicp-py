@@ -42,7 +42,7 @@ can use dictionaries with string keys.
 
 To illustrate this, we will implement a mutable data type below called account.
 It has a constructor account(), and selector check_balance(), as well as functions
-to depost() or withdraw() funds.
+to deposit() or withdraw() funds.
 """
 
 def account(initial_balance):
